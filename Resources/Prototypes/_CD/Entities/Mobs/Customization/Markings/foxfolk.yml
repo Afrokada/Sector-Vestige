@@ -11,7 +11,7 @@
 - type: marking
   id: FoxfolkEar
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: foxfolk
@@ -21,7 +21,7 @@
 - type: marking
   id: FoxfolkEarFade
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: foxfolk
@@ -31,7 +31,7 @@
 - type: marking
   id: FoxfolkEarSharp
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: foxfolk
@@ -41,7 +41,7 @@
 - type: marking
   id: FoxfolkEarJackal
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: jackal
@@ -51,7 +51,7 @@
 - type: marking
   id: FoxfolkEarTerrier
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: terrier
@@ -61,7 +61,7 @@
 - type: marking
   id: FoxfolkEarWolf
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: wolf
@@ -71,7 +71,7 @@
 - type: marking
   id: FoxfolkEarFennec
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: fennec
@@ -81,7 +81,7 @@
 - type: marking
   id: FoxfolkEarFox
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: fox
@@ -89,7 +89,7 @@
 - type: marking
   id: FoxfolkEarOtie
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: otie
@@ -99,7 +99,7 @@
 - type: marking
   id: FoxfolkEarTajaran
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: msai
@@ -109,7 +109,7 @@
 - type: marking
   id: FoxfolkEarShock
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: shock
@@ -117,7 +117,7 @@
 - type: marking
   id: FoxfolkEarCoyote
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: coyote
@@ -125,7 +125,7 @@
 - type: marking
   id: FoxfolkEarDalmatian
   bodyPart: HeadTop
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/ear_markings.rsi
       state: dalmatian
@@ -252,7 +252,7 @@
 - type: marking
   id: FoxfolkTail
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: foxfolk
@@ -262,7 +262,7 @@
 - type: marking
   id: FoxfolkTailTip
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: foxfolk
@@ -272,7 +272,7 @@
 - type: marking
   id: FoxfolkTailAlt
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: foxfolk_alt
@@ -282,7 +282,7 @@
 - type: marking
   id: FoxfolkTailAltTip
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: foxfolk_alt
@@ -292,7 +292,7 @@
 - type: marking
   id: FoxfolkTailLong
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: long
@@ -302,7 +302,7 @@
 - type: marking
   id: FoxfolkTailFox
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: fox
@@ -312,7 +312,7 @@
 - type: marking
   id: FoxfolkTailFoxTip
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: fox
@@ -322,7 +322,7 @@
 - type: marking
   id: FoxfolkTailBushy
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: bushfluff
@@ -330,7 +330,7 @@
 - type: marking
   id: FoxfolkTailCoyote
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: coyote
@@ -338,7 +338,7 @@
 - type: marking
   id: FoxfolkTailHusky
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: husky-inner
@@ -348,7 +348,7 @@
 - type: marking
   id: FoxfolkTailHuskyAlt
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: husky
@@ -356,7 +356,7 @@
 - type: marking
   id: FoxfolkTailFox2
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: fox2
@@ -364,7 +364,7 @@
 - type: marking
   id: FoxfolkTailFox3
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: fox3
@@ -374,7 +374,7 @@
 - type: marking
   id: FoxfolkTailFennec
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: fennec
@@ -382,7 +382,7 @@
 - type: marking
   id: FoxfolkTailOtie
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: otie
@@ -390,7 +390,7 @@
 - type: marking
   id: FoxfolkTailFluffy
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: fluffy
@@ -398,7 +398,7 @@
 - type: marking
   id: FoxfolkTailCorgi #These will need locale
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: corgi
@@ -406,7 +406,7 @@
 - type: marking
   id: FoxfolkTailDalmation #These will need locale
   bodyPart: Tail
-  groupWhitelist: [ Foxfolk ]
+  groupWhitelist: [ Foxfolk, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Foxfolk/tail_markings.rsi
       state: dalmatian

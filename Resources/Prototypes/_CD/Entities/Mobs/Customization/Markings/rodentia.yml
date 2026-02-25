@@ -38,7 +38,7 @@
 - type: marking
   id: RodentiaHeadTopEarBat
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: bat
@@ -46,7 +46,7 @@
 - type: marking
   id: RodentiaHeadTopEarBatLarge
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: bat_large
@@ -54,7 +54,7 @@
 - type: marking
   id: RodentiaHeadTopEarHamster
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: hamster
@@ -64,7 +64,7 @@
 - type: marking
   id: RodentiaHeadTopEarLong
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: long
@@ -74,7 +74,7 @@
 - type: marking
   id: RodentiaHeadTopEarMouse
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: mouse
@@ -84,7 +84,7 @@
 - type: marking
   id: RodentiaHeadTopEarMouseLarge
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: mouse_large
@@ -94,7 +94,7 @@
 - type: marking
   id: RodentiaHeadTopEarNone
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: none
@@ -102,7 +102,7 @@
 - type: marking
   id: RodentiaHeadTopEarPointy
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: pointy
@@ -110,7 +110,7 @@
 - type: marking
   id: RodentiaHeadTopEarRabbit
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: rabbit
@@ -120,7 +120,7 @@
 - type: marking
   id: RodentiaHeadTopEarSmall
   bodyPart: HeadTop
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/ear_markings.rsi
       state: small
@@ -264,7 +264,7 @@
 - type: marking
   id: RodentiaTailBeaver
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: beaver
@@ -272,7 +272,7 @@
 - type: marking
   id: RodentiaTailHamster
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: hamster
@@ -280,7 +280,7 @@
 - type: marking
   id: RodentiaTailLong
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: long
@@ -288,7 +288,7 @@
 - type: marking
   id: RodentiaTailLongCounter
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: long
@@ -298,7 +298,7 @@
 - type: marking
   id: RodentiaTailLongCounterTip
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: long
@@ -310,7 +310,7 @@
 - type: marking
   id: RodentiaTailMouse
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: mouse
@@ -318,7 +318,7 @@
 - type: marking
   id: RodentiaTailRabbit
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: rabbit
@@ -326,7 +326,7 @@
 - type: marking
   id: RodentiaTailRabbitCounter
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: rabbit
@@ -336,7 +336,7 @@
 - type: marking
   id: RodentiaTailShort
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: short
@@ -344,7 +344,7 @@
 - type: marking
   id: RodentiaTailSquirrel
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: squirrel
@@ -352,7 +352,7 @@
 - type: marking
   id: RodentiaTailSquirrelBicolor
   bodyPart: Tail
-  groupWhitelist: [ Rodentia ]
+  groupWhitelist: [ Rodentia, Felinid ]
   sprites:
     - sprite: _CD/Mobs/Customization/Rodentia/tail_markings.rsi
       state: squirrel
