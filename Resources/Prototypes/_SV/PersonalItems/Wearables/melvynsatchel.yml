@@ -20,9 +20,8 @@
 
 - type: loadout
   id: PersonalItemMelvynSatchel
-  storage:
-    back:
-    - PersonalItemMelvynSatchel
+  equipment:
+    back: PersonalItemMelvynSatchel
   effects:
   - !type:PersonalItemLoadoutEffect
      character:
