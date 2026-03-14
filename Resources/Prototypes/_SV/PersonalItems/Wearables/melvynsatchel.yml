@@ -9,8 +9,8 @@
 - type: entity
   parent: ClothingBackpackSatchel
   id: PersonalItemMelvynSatchel
-  name: decorated satchel
-  description: A navy blue satchel with a faded medical cross sticker. There's an original wehbubu and a small vampire-bat ornament attached to it via jump rings. This... This is seriously my paramedic? Lord Hex, save me.
+  name: decorated EMT satchel
+  description: A navy blue satchel with a faded medical cross sticker. There's an authentic wehbubu and a small vampire-bat ornament attached to it via jump rings. This... Is this is seriously my paramedic? Lord Hex, save me.
   suffix: PersonalItem
   components:
   - type: Sprite
@@ -20,8 +20,8 @@
 
 - type: loadout
   id: PersonalItemMelvynSatchel
-  equipment:
-    back: PersonalItemMelvynSatchel
+  inhand:
+    - PersonalItemMelvynSatchel
   effects:
   - !type:PersonalItemLoadoutEffect
      character:
