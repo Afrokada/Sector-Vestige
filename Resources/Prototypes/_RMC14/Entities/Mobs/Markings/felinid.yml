@@ -1,0 +1,9 @@
+- type: marking
+  id: FelinidTailLeopard
+  bodyPart: Tail
+  groupWhitelist: [Felinid]
+  sprites:
+    - sprite: _RMC14/Mobs/Felinids/leopard_tail.rsi
+      state: m_tail_leopard_primary
+    - sprite: _RMC14/Mobs/Felinids/leopard_tail.rsi
+      state: m_tail_leopard_tertiary
