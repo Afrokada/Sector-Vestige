@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2026 RMC14 contributors
+# SPDX-FileCopyrightText: 2026 Sector Vestige contributors (modifications)
+# SPDX-FileCopyrightText: 2026 s3ptemb3rr (GitHub)
+# SPDX-FileCopyrightText: 2026 september <rdamico2204@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
+- type: marking
+  id: FelinidTailLeopard
+  bodyPart: Tail
+  groupWhitelist: [Felinid]
+  sprites:
+    - sprite: _RMC14/Mobs/Felinids/leopard_tail.rsi
+      state: m_tail_leopard_primary
+    - sprite: _RMC14/Mobs/Felinids/leopard_tail.rsi
+      state: m_tail_leopard_tertiary
