@@ -1603,3 +1603,17 @@ Entries:
       message: Added leopard tail from RMC14
   id: 221
   time: '2026-04-01T06:56:43.0000000+00:00'
+- author: NicoSGF64
+  changes:
+    - type: Add
+      message: Added the senior researcher high-cut labcoat.
+    - type: Add
+      message: >-
+        Medical doctors, senior physicians and senior researchers now have
+        access to more labcoats.
+    - type: Fix
+      message: >-
+        Medical doctors no longer can commit stolen valor and wear the senior
+        physician labcoat.
+  id: 222
+  time: '2026-04-04T09:55:19.0000000+00:00'
