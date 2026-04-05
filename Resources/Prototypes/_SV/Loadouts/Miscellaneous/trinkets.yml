@@ -18,10 +18,3 @@
   - !type:PersonalItemLoadoutEffect
     character:
     - Swaps-the-Batteries
-
-- type: loadout
-  id: ClothingNeckLanyard
-  storage:
-    back:
-    - ClothingNeckLanyard
-    - Paper
