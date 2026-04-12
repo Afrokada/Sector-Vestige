@@ -246,6 +246,7 @@
   minLimit: 0
   loadouts:
   - HoPHead
+  - HoPBeretHarmony # Added by SV
 
 - type: loadoutGroup
   id: HoPJumpsuit
@@ -253,6 +254,12 @@
   loadouts:
   - HoPJumpsuit
   - HoPJumpskirt
+# Begin SV changes - Add Harmony's clothing to loadouts
+  - HoPJumpsuitTurtleneckHarmony
+  - HoPJumpskirtTurtleneckHarmony
+  - HoPJumpsuitMessKitHarmony
+  - HoPJumpskirtMessKitHarmony
+# End SV changes
 
 - type: loadoutGroup
   id: HoPNeck
@@ -920,7 +927,8 @@
   minLimit: 0
   loadouts:
   - ChiefEngineerHead
-  - ChiefEngineerBeret
+  - CEBeretHarmony # Added by SV
+  # - ChiefEngineerBeret # Removed by SV
 
 - type: loadoutGroup
   id: ChiefEngineerJumpsuit
@@ -1096,7 +1104,8 @@
   name: loadout-group-vestige-head #Changed by SV
   minLimit: 0
   loadouts:
-  - ResearchDirectorBeret
+  - RDBeretHarmony # Added by SV
+  # - ResearchDirectorBeret # Removed by SV
 
 - type: loadoutGroup
   id: ResearchDirectorNeck

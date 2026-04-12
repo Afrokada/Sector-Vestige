@@ -12,21 +12,25 @@
   id: HoPJumpsuitTurtleneckHarmony
   equipment:
     jumpsuit: ClothingUniformJumpsuitHeadOfPersonnelTurtleneckHarmony
+  groupBy: "turtleneck" #SV
 
 - type: loadout
   id: HoPJumpskirtTurtleneckHarmony
   equipment:
     jumpsuit: ClothingUniformJumpskirtHeadOfPersonnelTurtleneckHarmony
+  groupBy: "turtleneck" #SV
     
 - type: loadout
   id: HoPJumpsuitMessKitHarmony
   equipment:
     jumpsuit: ClothingUniformJumpsuitHeadofPersonnelMessKitHarmony
+  groupBy: "messkit" #SV
 
 - type: loadout
   id: HoPJumpskirtMessKitHarmony
   equipment:
     jumpsuit: ClothingUniformJumpskirtHeadofPersonnelMessKitHarmony
+  groupBy: "messkit" #SV
 
 # Shoes
 - type: loadout
