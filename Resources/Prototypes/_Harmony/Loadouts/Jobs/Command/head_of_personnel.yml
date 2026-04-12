@@ -20,7 +20,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtHeadOfPersonnelTurtleneckHarmony
   groupBy: "turtleneck" #SV
-    
+
 - type: loadout
   id: HoPJumpsuitMessKitHarmony
   equipment:
