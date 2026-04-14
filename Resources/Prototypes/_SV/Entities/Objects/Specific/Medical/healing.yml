@@ -21,6 +21,7 @@
 
 - type: entity
   name: pill canister
+  description: A canister of mild painkillers. Do not take with alcohol.
   parent: PillCanister
   id: PillCanisterStubantazine
   suffix: Stubantazine 5u, 5
@@ -55,6 +56,7 @@
 
 - type: entity
   name: pill canister
+  description: A canister of mild, but long-lasting painkillers.
   parent: PillCanister
   id: PillCanisterSoretizone
   suffix: Soretizone 5u, 5
