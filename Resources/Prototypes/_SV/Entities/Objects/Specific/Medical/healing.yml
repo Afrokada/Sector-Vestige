@@ -62,7 +62,7 @@
   suffix: Soretizone 5u, 5
   components:
   - type: Label
-    currentLabel: Soretizone 5u
+    currentLabel: soretizone 5u
   - type: EntityTableContainerFill
     containers:
       storagebase:

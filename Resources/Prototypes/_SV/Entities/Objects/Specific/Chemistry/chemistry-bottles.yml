@@ -4,7 +4,7 @@
   parent: BaseChemistryBottleFilled
   components:
   - type: Label
-    currentLabel: reagent-name-stubantazine
+    currentLabel: stubantazine
   - type: SolutionContainerManager
     solutions:
       drink:
@@ -19,7 +19,7 @@
   parent: BaseChemistryBottleFilled
   components:
   - type: Label
-    currentLabel: reagent-name-soretizone
+    currentLabel: soretizone
   - type: SolutionContainerManager
     solutions:
       drink:
